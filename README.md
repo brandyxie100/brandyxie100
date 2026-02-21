@@ -5,10 +5,9 @@
 ---
 
 ## About Me
+AI Full-Stack Engineer with 17 years of professional experience across internet software development and mobile game development. I focus on **AI-driven applications** and **clean architecture**: domain-driven design, test-first development, and production-ready SaaS. I enjoy turning complex product requirements into maintainable systems—from LangGraph agentic pipelines to multi-tenant backends and type-safe frontends.
 
-I focus on **AI-driven applications** and **clean architecture**: domain-driven design, test-first development, and production-ready SaaS. I enjoy turning complex product requirements into maintainable systems—from LangGraph agentic pipelines to multi-tenant backends and type-safe frontends.
-
-- **Location:** *(Add your city/country if you like)*
+- **Location:** *Hauraki, Auckland, NZ*
 - **Email:** microxw@gmail.com
 - **GitHub:** [@brandyxie100](https://github.com/brandyxie100)
 
