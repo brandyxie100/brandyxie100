@@ -5,8 +5,7 @@
 ---
 
 ## About Me
-
-I focus on **AI-driven applications** and **clean architecture**: domain-driven design, test-first development, and production-ready SaaS. I enjoy turning complex product requirements into maintainable systems—from LangGraph agentic pipelines to multi-tenant backends and type-safe frontends.
+AI Full-Stack Engineer with 17 years of professional experience across internet software development and mobile game development. I focus on **AI-driven applications** and **clean architecture**: domain-driven design, test-first development, and production-ready SaaS. I enjoy turning complex product requirements into maintainable systems—from LangGraph agentic pipelines to multi-tenant backends and type-safe frontends.
 
 - **Location:** *Hauraki, Auckland, NZ*
 - **Email:** microxw@gmail.com
