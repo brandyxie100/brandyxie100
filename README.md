@@ -56,6 +56,7 @@ A **multi-tenant SaaS** that uses LLMs and RAG to help job seekers tailor resume
 
 This game is a casual idle mining game where players dig deeper underground, haul resources to the surface, upgrade logistics and buildings, and collect antiques and relics for exhibition rewards. 
 The game combines **tap-driven mining**, **automated production chains**, **depth-based progression**, and **collection meta-systems** into a single cohesive loop—designed to feel simple on first launch while supporting long-term incremental growth.
+
 ---
 
 ### *(Python AI Education project)*
