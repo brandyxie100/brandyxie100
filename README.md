@@ -50,17 +50,17 @@ A **multi-tenant SaaS** that uses LLMs and RAG to help job seekers tailor resume
 
 ---
 
-### *(Add another project)*
+### *(WeChat Mini Game)*
 
-**Repo:** [repository-url](https://github.com/your-username/repo-name)
+**Repo:** [[repository-url](https://github.com/your-username/repo-name)](https://github.com/brandyxie100/002FZZ)
 
 Short description (1–2 sentences). List 2–3 key features or outcomes. Mention your role and 1–2 technologies.
 
 ---
 
-### *(Add another project)*
+### *(Python AI Education project)*
 
-**Repo:** [repository-url](https://github.com/your-username/repo-name)
+**Repo:** [repository-url](https://github.com/your-username/repo-name)](https://github.com/brandyxie100/PythonProj)
 
 Short description. Key results or skills demonstrated.
 
