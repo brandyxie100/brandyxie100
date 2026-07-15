@@ -5,7 +5,9 @@
 ---
 
 ## About Me
-AI Full-Stack Engineer with 17 years of professional experience across internet software development and mobile game development. I focus on **AI-driven applications** and **clean architecture**: domain-driven design, test-first development, and production-ready SaaS. I enjoy turning complex product requirements into maintainable systems—from LangGraph agentic pipelines to multi-tenant backends and type-safe frontends.
+A passionate and dedicated professional with over 17 years of experience in mobile game development, familiar with the Cocos Creator and Unity game engine and mainstream software development tool-chain.
+Proficient in Python & TypeScript & C++ and other development languages, familiar with agile development process. Able to continue to learn new skills, have rich programming experience, good communication and coordination skills and teamwork skills.
+Now I focus on **AI-driven applications** and **clean architecture**: domain-driven design, test-first development, and production-ready SaaS. I enjoy turning complex product requirements into maintainable systems—from LangGraph agentic pipelines to multi-tenant backends and type-safe frontends.
 
 - **Location:** *Hauraki, Auckland, NZ*
 - **Email:** microxw@gmail.com
